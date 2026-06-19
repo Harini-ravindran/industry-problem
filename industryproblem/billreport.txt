@@ -1,0 +1,6 @@
+WATER BILL REPORT
+============================================================
+ID:C101 Type:Residential Consumption:35.0 Bill:925.00 LateFee:0.00 Total:925.00
+ID:C102 Type:Commercial Consumption:70.0 Bill:3600.00 LateFee:180.00 Total:3780.00
+ID:C103 Type:Industrial Consumption:150.0 Bill:11500.00 LateFee:0.00 Total:11500.00
+ID:C104 Type:Residential Consumption:60.0 Bill:1950.00 LateFee:97.50 Total:2047.50

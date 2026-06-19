@@ -1,0 +1,5 @@
+customer_id,type,consumption,payment_due
+C101,Residential,35,No
+C102,Commercial,70,Yes
+C103,Industrial,150,No
+C104,Residential,60,Yes

@@ -1,0 +1,19 @@
+{
+    "Residential": [
+        {"upto": 20, "rate": 20},
+        {"upto": 50, "rate": 35},
+        {"upto": null, "rate": 50}
+    ],
+
+    "Commercial": [
+        {"upto": 30, "rate": 40},
+        {"upto": 80, "rate": 60},
+        {"upto": null, "rate": 80}
+    ],
+
+    "Industrial": [
+        {"upto": 100, "rate": 70},
+        {"upto": 200, "rate": 90},
+        {"upto": null, "rate": 120}
+    ]
+}

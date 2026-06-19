@@ -1,0 +1,5 @@
+SUMMARY REPORT
+========================================
+Residential: ₹2972.50
+Commercial: ₹3780.00
+Industrial: ₹11500.00
